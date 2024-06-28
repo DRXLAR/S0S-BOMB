@@ -1,7 +1,19 @@
+</p>
+
+<p align="center">    
+   <a 
+href="https://github.com/Drxlar"><img title="Author" src="https://img.shields.io/badge/Author-Drxlar-blue?style=for-the-badge&logo=github"></a> 
+
+</p>
+
+<p align="center">
+• <a
+href="https://github.com/Drxlar/A-DDos/wiki">THE WORLD IS YOUR CANVAS</a> •
+
+</p>
+
 # SMS-BOMB
 Free and Unlimited best SMS BOMBER Tools
-<center><h3>🖤Assalamu Alaikum🖤</h3></center>
-<center><img src="ss1.jpg" alt="STLP-TEAM" height="150" width="400"></img></center></br>
 
 <h2>INSTALLATION ⬇️</h2>
 
